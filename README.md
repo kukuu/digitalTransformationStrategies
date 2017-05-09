@@ -48,7 +48,7 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 		Project Management & Analysing process development in  Real Time
 
 
-##### System Architecture (Data Interchange)
+##### System Architecture (Data Interchange) & APIs
 
 		A 
 		
@@ -103,6 +103,11 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 					Partition code
 
 
+				Attack Vectors and API Security
+					Parameters (URL/URI/Query strings/Headers) - i.e SQL injection
+					Identity - Authentication/Authorisation /Session attacks
+					Man in the middle - Intercepting data in transit (Encryption!SSL!TLS!)
+
 
 ##### Front & Back end Development Methods
 
@@ -119,10 +124,6 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 
 ##### Exploiting open source technologies
-
-
-
-##### Working with APIs & managing security
 
 
 ##### Effective Governance, Legislation, Data Protection (i.e GDPR), and associated penalties
