@@ -307,8 +307,8 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 			3. Educate people in your organisation about the innovation at the earliest stage 
 			possible (startup mindset), take advantage of new technologies.
 
-			Possibly the use of  Blockchain platform for sharing resources and transactions. It is a decentralised
-			platform and peer to peer avoiding hacking.
+			Possibly the use of  Blockchain platform for sharing resources and transactions. 
+			It is a decentralised platform and peer to peer avoiding hacking.
 			
 			By storing data across its network, the blockchain eliminates the risks that come 
 			with data being held centrally.
