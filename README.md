@@ -117,16 +117,19 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 	Cloud computing is a model for enabling convenient, on-demand network access to a shared pool
 	 of configurable computing resources (e.g., networks, servers, storage, applications, and services) 
-	 that can be rapidly provisioned and released with minimal management effort or service provider interaction. 
+	 that can be rapidly provisioned and released with minimal management effort or 
+	 service provider interaction. 
 	 By using these services there is the potential to reduce IT support costs by outsourcing 
 	 hardware and software maintenance and support to the providers.
 
 	 Characteristics associated with Cloud Computing services include:
 
 		On-demand self-service. The ability for an end user to sign up and receive services without 
-		the long delays that have characterized traditional IT normally using thin client like the Browser.
+		the long delays that have characterized traditional IT normally using thin 
+		client like the Browser.
 
-		Broad network access. Ability to access the service via standard platforms (desktop, laptop, mobile etc)
+		Broad network access. Ability to access the service via standard 
+		platforms (desktop, laptop, mobile etc)
 
 		Resource pooling. Resources are pooled across multiple customers.
 
@@ -139,10 +142,11 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 	SaaS (Software as a Service) applications are designed for end-users, delivered over the web.
 
-		SaaS is a software distribution model in which applications are hosted by a vendor or service provider 
-		and made available to customers over a network, typically the Internet.
+		SaaS is a software distribution model in which applications are hosted by a vendor 
+		or service provider and made available to customers over a network, typically the Internet.
 
-		With Saas model you are provided with access to application softwares often referred to as on-demand softwares. 
+		With Saas model you are provided with access to application softwares often 
+		referred to as on-demand softwares. 
 		You don't have to worry about the installation, setup and running of the application. 
 		Service provider will do that for you. You just have to pay and use it through some client.
 
@@ -152,31 +156,46 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 	PaaS (Platform as a Service) is the set of tools and services designed to make coding and deploying 
 	those applications quick and efficient over the Internet. 
 
-		The model is a category of cloud computing services that provides a platform allowing customers to develop,
-		 run, and manage web applications without the complexity of building and maintaining the infrastructure typically
-		  associated with developing and launching an app - via the browser.
+		The model is a category of cloud computing services that provides a platform allowing 
+		customers to develop, run, and manage web applications without the complexity of building and
+		maintaining the infrastructure typically associated with developing and launching 
+		an app - via the browser.
 
-		Examples: AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App Engine, Apache Stratos.
+		Examples: AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App Engine, 
+		and Apache Stratos.
 
 
-	IaaS (Infrastructure as a Service), is the hardware and software that powers it all – servers, storage, networks, operating system. 
+	IaaS (Infrastructure as a Service), is the hardware and software that powers it all – servers, 
+	storage, networks, operating system. 
 
-		IaaS provides you the computing infrastructure, physical or (quite often) virtual machines and other resources like virtual-machine disk image library, block and file-based storage, firewalls, load balancers, IP addresses, virtual local area networks etc. 
+		IaaS provides you the computing infrastructure, physical or (quite often) virtual machines and 
+		other resources like virtual-machine disk image library, block and file-based storage, firewalls,
+		load balancers, IP addresses, virtual local area networks etc. 
 
 		Examples: Amazon EC2, Windows Azure, Rackspace, Google Compute Engine.
 
 	Additional points to note:
 
-		AWS(Amazon web services) is a complete suite which involves a whole bunch of useful web services. Most popular are EC2 and S3 and they belong to IaaS service model.
+		AWS(Amazon web services) is a complete suite which involves a whole bunch of useful web services. 
+		Most popular are EC2 and S3 and they belong to IaaS service model.
 		
-		Although Hadoop is based on previous works by Google(GFS and MapReduce), it is not from Google. It is an Apache project.It is just a distributed computing platform and does not fall into any of these service models
+		Although Hadoop is based on previous works by Google(GFS and MapReduce), it is not from Google. 
+		It is an Apache project.It is just a distributed computing platform and does not fall into 
+		any of these service models
 		
 		Windows Azure is both a PaaS and IaaS.
 
 		Scalability
 
 		Performance
-		Hadoop MapReduce (Hadoop Map/Reduce) is a software framework for distributed processing of large data sets on compute clusters of commodity hardware. It is a sub-project of the Apache Hadoop project. The framework takes care of scheduling tasks, monitoring them and re-executing any failed tasks. 
+		Hadoop MapReduce (Hadoop Map/Reduce) is a software framework for distributed processing of 
+		large data sets on compute clusters of commodity hardware. It is a sub-project of the 
+		Apache Hadoop project. The framework takes care of scheduling tasks, 
+		monitoring them and re-executing any failed tasks. 
 
-		Choose a particular platform based on your requirements and needs. For example, if you want to have a Hadoop cluster on which you would run MapReduce jobs, you will find EC2 a perfect fit, which is IaaS. On the other hand if you have some application, written in some language, and you want to deploy it over the cloud, you would choose something like Heroku, which is an example of PaaS.
+		Choose a particular platform based on your requirements and needs. For example, if you want to 
+		have a Hadoop cluster on which you would run MapReduce jobs, you will find EC2 a perfect fit, 
+		which is IaaS. On the other hand if you have some application, written in some language, 
+		and you want to deploy it over the cloud,  you would choose something like Heroku, 
+		which is an example of PaaS.
 
