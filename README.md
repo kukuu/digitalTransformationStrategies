@@ -309,7 +309,7 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 			4. Investigate what external support (funding ) is available, including 
 			accelerators (a program designed to help startups get off the ground quickly, 
-			often in exchange for equity), and incubators (similar to accelerators, but usually in-house 
-			at a corporate or investor parent).
+			often in exchange for equity), and incubators (similar to accelerators, 
+			but usually in-house at a corporate or investor parent).
 
 			5. Plan the funding requirements to maintain momentum
