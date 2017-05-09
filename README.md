@@ -59,7 +59,7 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 
 		B 
-			User and re-user focus
+			User and re-user focus (Recommended)
 
 				Integrated API and UIs
 					Gurantees relevance
