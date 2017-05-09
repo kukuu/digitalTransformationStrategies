@@ -295,7 +295,7 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 		which is an example of PaaS.
 
 
-##### Developing technology based innovation/tool for charities?
+##### Developing technology based innovation/tool for limited budget?
 
 			1. Don’t let the technology distract from the end goal of creating something that benefits your users.
 
