@@ -3,7 +3,7 @@
 On-line Technical Delivery & Strategic Thinking
 Businesses today consumes IT at several speeds all at once. Innovation and digital disruption require quick response, legacy systems call for deliberate care, and shifting operating models need a pace of change somewhere in between. Two speeds are no longer enough for the modern IT business organizations. Unless the Technical Leadership can master the art of delivering change at the pace demanded by each area of the business, they risk being relegated to tending legacy systems. There is a calling need to implement mult-speed IT strategy.
 
-Multi-speed IT is achieved by controlling budget, bringing together a network of skills, instituting a dynamic operating model and installing flexible governance models.
+Multi-speed IT is achieved by bringing together a network of skills, instituting a dynamic operating model and installing flexible governance models.
 
 
 ##### Business Development approach
@@ -14,6 +14,15 @@ Multi-speed IT is achieved by controlling budget, bringing together a network of
 		Develop a Strategy Roadmap
 		Communicate the Strategy
 
+
+##### Budgeting & Planning - Process planning and active management control 
+
+		Plan and Analyze in Real-Time
+		Make  planning agile with  dynamic data modeling
+		Take advantage of cutting-edge data-entry capabilities
+		Implement a customized workflow
+		Create sophisticated business rules without coding
+		Manage unlimited scenarios and versions
 
 ##### Project Delivery & Management Practices
 
@@ -46,8 +55,6 @@ Multi-speed IT is achieved by controlling budget, bringing together a network of
 
 ##### Exploiting open source technologies
 
-
-##### Taking advantage of cutting-edge data-entry tools and capabilities
 
 
 ##### Working with APIs & managing security
@@ -220,4 +227,6 @@ Multi-speed IT is achieved by controlling budget, bringing together a network of
 		which is IaaS. On the other hand if you have some application, written in some language, 
 		and you want to deploy it over the cloud,  you would choose something like Heroku, 
 		which is an example of PaaS.
+
+
 
