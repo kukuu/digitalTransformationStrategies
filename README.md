@@ -27,6 +27,9 @@ Multi-speed IT is achieved by controlling budget, bringing together a network of
 		Project Management
 
 
+##### Analysing process development in  Real Time
+
+
 ##### Front & Back end Development Methods
 
 		Code Management
@@ -41,7 +44,16 @@ Multi-speed IT is achieved by controlling budget, bringing together a network of
 ##### Portable Modular Components Architecture
 
 
+##### Exploiting open source technologies
+
+
+##### Taking advantage of cutting-edge data-entry tools and capabilities
+
+
 ##### Working with APIs & managing security
+
+
+##### Effective Governance, Legislation, Data Protection (i.e GDPR), and associated penalties
 
 
 ##### UX Patterns
