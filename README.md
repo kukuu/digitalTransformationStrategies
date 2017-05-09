@@ -3,7 +3,7 @@
 On-line Technical Delivery & Strategic Thinking
 Businesses today consumes IT at several speeds all at once. Innovation and digital disruption require quick response, legacy systems call for deliberate care, and shifting operating models need a pace of change somewhere in between. Two speeds are no longer enough for the modern IT business organizations. Unless the Technical Leadership can master the art of delivering change at the pace demanded by each area of the business, they risk being relegated to tending legacy systems. There is a calling need to implement mult-speed IT strategy.
 
-Multi-speed IT is achieved by bringing together a network of skills, instituting a dynamic operating model and installing flexible governance models.
+Multi-speed IT is achieved by controling budget, bringing together a network of skills, instituting a dynamic operating model and installing flexible governance models.
 
 
 ##### Business Development approach
@@ -82,6 +82,13 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 		Browser testing
 		Operating Systems
 		Mobile Devices
+
+
+##### KPI & Reporting
+
+
+##### Performance Management
+
 
 
 ##### Integrating Social Media, Email & Campaign Strategies:
