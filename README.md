@@ -55,7 +55,7 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 ##### SEO, Analytics and Omniture tagging specifications
 
 
-##### Continuous Integration & DevOps
+##### Continuous Integration, Continuous Delivery & DevOps
 
 
 ##### Integration Approach
