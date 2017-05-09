@@ -41,6 +41,9 @@ Multi-speed IT is achieved by controlling budget, bringing together a network of
 ##### Portable Modular Components Architecture
 
 
+##### Working with APIs & managing security
+
+
 ##### UX Patterns
 
 		UX Best Practices - Keep It Simple (KISS)
