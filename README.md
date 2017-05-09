@@ -24,6 +24,18 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 		Create sophisticated business rules without coding
 		Manage unlimited scenarios and versions
 
+
+##### Requirements
+
+		Types of information
+			Effects & Research
+			Tasks & Workflows
+			Participants, permissions and messages
+
+		Levels of interactivity
+			Read / Write platform
+			Dynamic, Native, Web Interface
+
 ##### Project Delivery & Management Practices
 
 		Agile
@@ -33,10 +45,63 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 		TDD
 		XP
 		BDD
-		Project Management
+		Project Management & Analysing process development in  Real Time
 
 
-##### Analysing process development in  Real Time
+##### System Architecture (Data Interchange)
+
+		A 
+		
+			HTML (Lingua Franca - Hard to go wrong)
+			JSON (Concise - Application native)
+			XML (Single Source Format - Flexible)
+			RDF (Web native data - Graph model)
+
+
+		B 
+			User and re-user focus
+
+				Integrated API and UIs
+					Gurantees relevance
+					Help re-users understandand information
+					Help dedevelopers debug
+
+				URIs are the keys in all cases (Note: Weak but flexible links)
+					Addressability
+					Sharability
+					Understanding of underlying resource model
+
+
+
+		C-1 
+			Native XML
+
+				CDN (Caching & Delivery)
+				Cache (Caching)
+				Web Server (Static files)
+				Pipeline Engine (Transformations - XSLT/XSL FO)
+				Database (Storage & Queries)
+
+		C-2 
+			Native XML
+
+				AKAMAI (Caching & Delivery)
+				Squid (caching)
+				Apache (Static files)
+				Orbeon (Transformation - XSLT/XSL FO)
+				MarkLogic (Storage & Queries - XML/XQuery)
+
+		D 
+			Pitfalls
+
+				Performance
+					Caching
+					Batch processing
+
+				Proprietary Software
+					Rely on non-standard functions & tools
+					Partition code
+
 
 
 ##### Front & Back end Development Methods
