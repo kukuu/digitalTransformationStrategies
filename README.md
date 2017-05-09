@@ -305,7 +305,22 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 			with your ethos
 
 			3. Educate people in your organisation about the innovation at the earliest stage 
-			possible (startup mindset), take advantage of new technologies
+			possible (startup mindset), take advantage of new technologies.
+
+			Possibly the use of  Blockchain platform for sharing resources and transactions. It is a decentralised
+			platform and peer to peer avoiding hacking.
+			
+			By storing data across its network, the blockchain eliminates the risks that come 
+			with data being held centrally.
+
+			Its network lacks centralized points of vulnerability that computer hackers can exploit. 
+			Today’s internet has security problems that are familiar to everyone. We all rely on the 
+			“username/password” system to protect our identity and assets online. Blockchain security
+			methods use encryption technology.
+
+			With Blockchain Users  to the network have private keys and the network stores 
+			public keys for encryption/decryption when called upon.
+
 
 			4. Investigate what external support (funding ) is available, including 
 			accelerators (a program designed to help startups get off the ground quickly, 
