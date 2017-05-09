@@ -321,7 +321,7 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 		
 
-			[Why Agile?](https://github.com/kukuu/AGILITY/blob/master/README.md)
+			[Why Agile](https://github.com/kukuu/AGILITY/blob/master/README.md)
 			
 
 			Why Blockchain?
