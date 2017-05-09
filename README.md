@@ -300,7 +300,7 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 			1. Don’t let the technology distract from the end goal of creating something that benefits your users.
 
 			2. Find  developers who are happy to co-design with your users, is affordable, and aligned 
-			with your charity’s ethos
+			with your ethos
 
 			3. Educate people in your organisation about the innovation at the earliest stage possible (startup mindset), 
 			take advantage of new technologies
