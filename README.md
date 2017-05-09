@@ -297,16 +297,19 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 ##### Developing technology based innovation/tool for limited budget?
 
-			1. Don’t let the technology distract from the end goal of creating something that benefits your users.
+			1. Don’t let the technology distract from the end goal of creating something 
+			that benefits your users.
 
-			2. Find  developers who are happy to co-design with your users, is affordable, and aligned 
+			2. Find  developers who are happy to co-design with your users, is affordable, 
+			and aligned 
 			with your ethos
 
-			3. Educate people in your organisation about the innovation at the earliest stage possible (startup mindset), 
-			take advantage of new technologies
+			3. Educate people in your organisation about the innovation at the earliest stage 
+			possible (startup mindset), take advantage of new technologies
 
 			4. Investigate what external support (funding ) is available, including 
-			accelerators (a program designed to help startups get off the ground quickly, often in exchange for equity), 
-			and incubators (similar to accelerators, but usually in-house at a corporate or investor parent).
+			accelerators (a program designed to help startups get off the ground quickly, 
+			often in exchange for equity), and incubators (similar to accelerators, but usually in-house 
+			at a corporate or investor parent).
 
 			5. Plan the funding requirements to maintain momentum
