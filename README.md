@@ -26,8 +26,6 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 		BDD
 		Project Management
 
-##### Cloud Computing (Services & Platforms)
-
 
 ##### Front & Back end Development Methods
 
