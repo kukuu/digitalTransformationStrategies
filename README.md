@@ -11,7 +11,7 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 ##### Business Development approach
 
-		Understand the Corporate Strategy
+		Understand the Corporate Strategy and business domain
 		Assess current state of IT Strategy and Product background
 		Define Initiatives
 		Develop a Strategy Roadmap
