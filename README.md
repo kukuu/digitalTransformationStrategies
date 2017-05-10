@@ -95,7 +95,7 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 				MarkLogic (Storage & Queries - XML/XQuery)
 
 		D 
-			Pitfalls
+			Pitfalls & Risk Management
 
 				Performance
 					Caching
@@ -108,7 +108,7 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 				Attack Vectors and API Security
 					Parameters (URL/URI/Query strings/Headers) - i.e SQL injection
-					Identity - Authentication/Authorisation /Session attacks
+					Identity - Authentication/Authorisation / Session attacks
 					Man in the middle - Intercepting data in transit (Encryption!SSL!TLS!)
 
 
