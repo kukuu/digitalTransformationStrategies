@@ -8,7 +8,7 @@ Two speeds are no longer enough for the modern IT business organizations. Unless
 
 Multi-speed IT is achieved by bringing together a network of skills, instituting a dynamic operating model and installing flexible governance models.
 
-##### key services to deliver digital solutions and  consulting services:
+##### Key services to deliver digital solutions and consulting services:
  
 	1. Business model innovation
 
