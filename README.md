@@ -23,30 +23,30 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 ##### Business Development approach
 
-	1.	Understand the Corporate Strategy and business domain
+	1. Understand the Corporate Strategy and business domain
 
-	2.	Assess current state of IT Strategy and Product background
+	2. Assess current state of IT Strategy and Product background
 
-	3.	Define Initiatives
+	3. Define Initiatives
 
-	4.	Develop a Strategy Roadmap
+	4. Develop a Strategy Roadmap
 
-	5.	Communicate the Strategy
+	5. Communicate the Strategy
 		
 
 ##### Budgeting & Planning - Process planning and active management control 
 
-	1.	Plan and Analyze in Real-Time
+	1. Plan and Analyze in Real-Time
 
-	2.	Make  planning agile with  dynamic data modeling
+	2. Make  planning agile with  dynamic data modeling
 
-	3.	Take advantage of cutting-edge data-entry capabilities
+	3. Take advantage of cutting-edge data-entry capabilities
 
-	4.	Implement a customized workflow
+	4. Implement a customized workflow
 
-	5.	Create sophisticated business rules without coding
+	5. Create sophisticated business rules without coding
 
-	6.	Manage unlimited scenarios and versions
+	6. Manage unlimited scenarios and versions
 
 
 ##### Requirements
