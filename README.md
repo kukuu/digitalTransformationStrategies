@@ -134,11 +134,12 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 
 				WLAN against LAN
-					Enterprises are adopting WLAN technology as they realise the huge productivity gains
-					that are achieved through mobility and instant access to information
+					Enterprises are adopting WLAN technology as they realise the huge 
+					productivity gains that are achieved through mobility and 
+					instant access to information
 
-					Physical network wirea are one of the primary obstacles to attackers seeking to hack
-					into a LAN.
+					Physical network wirea are one of the primary helping ground to attackers 
+					seeking to hack into a LAN.
 
 					On a WLAN this obstacle disappears. User credentials and data are broadcast form both
 					the client and the wireless access point in a radius which may reach 300ft or more. 
