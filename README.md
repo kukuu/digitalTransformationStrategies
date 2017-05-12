@@ -142,23 +142,27 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 					On a WLAN this obstacle disappears. User credentials and data are broadcast form both
 					the client and the wireless access point in a radius which may reach 300ft or more. 
-					The challenge is to prevent the hijacking of user credentials during authentication negotiation.
+					The challenge is to prevent the hijacking of user credentials during 
+					authentication negotiation.
 
-					Once authentication is complete it is vital to protect the privacy of the data being transmitted 
-					between the clent and access point.
-					(GDPR - coming into force 2018. Non-compliance will be met with a fine of 4% global revenue).
+					Once authentication is complete it is vital to protect the privacy of the 
+					data being transmitted between the clent and access point.
+					(GDPR - coming into force 2018. Non-compliance will be met with 
+					a fine of 4% global revenue).
 
-					Digital certificates can also be difficult to install. Some users won't waant to bother to download
-					a certificate just to surf a specific website. This can limit their usability with other
-					B2B communications and intranets.
+					Digital certificates can also be difficult to install. Some users won't want
+				    to bother to download a certificate just to surf a specific website. 
+				    This can limit their usability with other B2B communications and intranets.
 
-					In addition Digital Certificates are specific. Users with certificates installed on their work
-					computers and wireless devices must also install Certificates on their home computers to access 
-					enterprise applications and data from the home device.
+					In addition Digital Certificates are specific. Users with certificates installed 
+					on their work computers and wireless devices must also install 
+					Certificates on their home computers to access enterprise applications 
+					and data from the home device.
 
-					Ultimately, no matter how good an authentication, authorisation or encryption scheme may be
-					hackers may find a way around it. As a result it may be impossible to design an impenetrable 
-					security technology. However, the goal of any security policy is to make it extremely difficult for
+					Ultimately, no matter how good an authentication, authorisation or 
+					encryption scheme may be hackers may find a way around it. 
+					As a result it may be impossible to design an impenetrable security technology. 
+					However, the goal of any security policy is to make it extremely difficult for 
 					unauthorised persons to gain access to network resources and information.
 
 ##### Front & Back end Development Methods
