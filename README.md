@@ -20,6 +20,12 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 	5. Cybersecurity and digital trust.
 
+	6. Effective Governance, Legislation, Data Protection (i.e GDPR and associated penalties)
+
+	7. KPI
+
+	8. Reporting
+
 
 ##### Business Development approach
 
@@ -86,49 +92,57 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 		
 ##### System Architecture (Data Interchange) & APIs
 
-		A 
+		A Data Formats
+
+		1. HTML (Lingua Franca - Hard to go wrong)
+
+		2. JSON (Concise - Application native)
+
+		3. XML (Single Source Format - Flexible)
+
+		4. RDF (Web native data - Graph model)
 		
-			HTML (Lingua Franca - Hard to go wrong)
-			JSON (Concise - Application native)
-			XML (Single Source Format - Flexible)
-			RDF (Web native data - Graph model)
 
+		B User and re-user focus (Recommended)
+			
 
-		B 
-			User and re-user focus (Recommended)
+		1. Integrated API and UIs
 
-				Integrated API and UIs
-					Gurantees relevance
-					Help re-users understandand information
-					Help dedevelopers debug
+					i. Gurantees relevance
 
-				URIs are the keys in all cases (Note: Weak but flexible links)
-					Addressability
-					Sharability
-					Understanding of underlying resource model
+					ii. Help re-users understandand information
 
+					iii. Help dedevelopers debug
 
+		2. URIs are the keys in all cases (Note: Weak but flexible links)
+					
+					i.   Addressability
 
-		C-1 
-			Native XML
+					ii.  Sharability
 
-				CDN (Caching & Delivery)
-				Cache (Caching)
-				Web Server (Static files)
-				Pipeline Engine (Transformations - XSLT/XSL FO)
-				Database (Storage & Queries)
+					iii. Understanding of underlying resource model
 
-		C-2 
-			Native XML
+		3. Native XML
 
-				AKAMAI (Caching & Delivery)
-				Squid (caching)
-				Apache (Static files)
-				Orbeon (Transformation - XSLT/XSL FO)
-				MarkLogic (Storage & Queries - XML/XQuery)
+				i.  CDN (Caching & Delivery)
 
-		D 
-			Pitfalls & Risk Management
+				ii. Cache (Caching)
+
+				iii Web Server (Static files)
+
+				iv. Pipeline Engine (Transformations - XSLT/XSL FO)
+
+				v.  Database (Storage & Queries)
+
+		4. Native XML
+
+				i.   AKAMAI (Caching & Delivery)
+				ii.  Squid (caching)
+				iii. Apache (Static files)
+				iv.  Orbeon (Transformation - XSLT/XSL FO)
+				v.   MarkLogic (Storage & Queries - XML/XQuery)
+
+		5. Pitfalls & Risk Management
 
 			Performance
 				Caching
@@ -181,33 +195,37 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 ##### Front & Back end Development Methods
 
-		Code Management
-		Code Framework
-		Code Repository Structure and Development guidelines
-		Components overview
-		Coding Standards & Best Practices
-		Error Handling
-		Source Control
+		1. Code Management
+
+		2. Code Framework
+
+		3. Code Repository Structure and Development guidelines
+
+		4. Components overview
+
+		5. Coding Standards & Best Practices
+
+		6. Error Handling
+
+		7. Source Control
 
 
 ##### Portable Modular Components Architecture
+		
+		1. Client and Server side component rendering
 
-
-##### Exploiting open source technologies
-
-
-##### Effective Governance, Legislation, Data Protection (i.e GDPR), and associated penalties
+		2. Cloud Computing Services
 
 
 ##### UX Patterns
 
-		UX Best Practices - Keep It Simple (KISS)
-		Responsive Web Design & Mobile First
-		Flexible Grid Systems
-		Font icons
-
-
-##### Client and Server side component rendering
+		1. UX Best Practices - Keep It Simple (KISS)
+		
+		2. Responsive Web Design & Mobile First
+		
+		3. Flexible Grid Systems
+		
+		4. Font icons
 
 
 ##### SEO, Analytics and Omniture tagging specifications
@@ -274,9 +292,11 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 ##### Integration Approach
 
-		In-house: dev and production
-		In-house data with Cloud systems
-		Legacy systems
+		1. In-house: dev and production
+
+		2. In-house data with Cloud systems
+
+		3. Legacy systems
 
 
 ##### Mapping HTML with Search i.e Endeca Pages / Elastic Search
@@ -290,20 +310,18 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 ##### Quality Assurance Approach : 
 
-		Testing Environment & Test Coverage
+		1. Testing Environment & Test Coverage
 		(http://bittersweetryan.github.io/jasmine-presentation/#slide-0)
-		Functionality testing through BDD test Automation
-		Browsers
-		Browser testing
-		Operating Systems
-		Mobile Devices
 
+		2. Functionality testing through BDD test Automation
 
-##### KPI & Reporting
+		3. Browsers
 
+		4. Browser testing
 
-##### Performance Management
+		5. Operating Systems
 
+		6. Mobile Devices
 
 
 ##### Integrating Social Media, Email & Campaign Strategies:
@@ -311,16 +329,19 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 	What if your brand could engage people in conversations about your product, popular TV shows,
 	 movies or sporting events while they are engaging with it? 
 
-	Behaviours
-		Demographics
-		Online Behavior
-		Conversations
+	1. Behaviours
 
-	Tools For Tapping Into and Measuring Consumer Behavior
+		i. Demographics
+		
+		ii. Online Behavior
+		
+		iii Conversations
 
-	Social Media Tips for Finding and Engaging Your Target Audience 
+	2. Tools For Tapping Into and Measuring Consumer Behavior
 
-	Spotlight on Implicit Reaction Time (IRT)
+	3. Social Media Tips for Finding and Engaging Your Target Audience 
+
+	3. Spotlight on Implicit Reaction Time (IRT)
 
 
 ##### Change Control
