@@ -215,7 +215,7 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 		7. Source Control
 
-		8.Unit Testing strategies for REST services
+		8. Unit Testing strategies for REST services
 
 
 ##### Portable Modular Components Architecture
