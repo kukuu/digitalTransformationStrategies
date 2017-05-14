@@ -49,16 +49,23 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 	6. Manage unlimited scenarios and versions
 
 
-##### Requirements
+##### Types of information
 
-		Types of information
-			Effects & Research
-			Tasks & Workflows
-			Participants, permissions and messages
+	1. Effects & Research
 
-		Levels of interactivity
-			Read / Write platform
-			Dynamic, Native, Web Interface
+	2. Tasks & Workflows
+
+	3. Participants, permissions and messages
+		
+
+##### Levels of interactivity
+
+	1. Tasks & Workflows
+
+	2. Read / Write platform
+
+	3. Dynamic, Native, Web Interface
+
 
 ##### Project Delivery & Management Practices
 
