@@ -118,54 +118,54 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 		D 
 			Pitfalls & Risk Management
 
-				Performance
-					Caching
-					Batch processing
+			Performance
+				Caching
+				Batch processing
 
-				Proprietary Software
-					Rely on non-standard functions & tools
-					Partition code
-
-
-				Attack Vectors and API Security
-					Parameters (URL/URI/Query strings/Headers) - i.e SQL injection
-					Identity - Authentication/Authorisation / Session attacks
-					Man in the middle - Intercepting data in transit (Encryption!SSL!TLS!)
+			Proprietary Software
+				Rely on non-standard functions & tools
+				Partition code
 
 
-				WLAN against LAN
-					Enterprises are adopting WLAN technology as they realise the huge 
-					productivity gains that are achieved through mobility and 
-					instant access to information
+			Attack Vectors and API Security
+				Parameters (URL/URI/Query strings/Headers) - i.e SQL injection
+				Identity - Authentication/Authorisation / Session attacks
+				Man in the middle - Intercepting data in transit (Encryption!SSL!TLS!)
 
-					Physical network wirea are one of the primary helping ground to attackers 
-					seeking to hack into a LAN.
 
-					On a WLAN this obstacle disappears. User credentials and data are 
-					broadcast form boththe client and the wireless access point in a radius
-				    which may reach 300ft or more. 
-					The challenge is to prevent the hijacking of user credentials during 
-					authentication negotiation.
+			WLAN against LAN
+				Enterprises are adopting WLAN technology as they realise the huge 
+				productivity gains that are achieved through mobility and 
+				instant access to information
 
-					Once authentication is complete it is vital to protect the privacy of the 
-					data being transmitted between the clent and access point.
-					(GDPR - coming into force 2018. Non-compliance will be met with 
-					a fine of 4% global revenue).
+				Physical network wirea are one of the primary helping ground to attackers 
+				seeking to hack into a LAN.
 
-					Digital certificates can also be difficult to install. Some users won't want
-				    to bother to download a certificate just to surf a specific website. 
-				    This can limit their usability with other B2B communications and intranets.
+				On a WLAN this obstacle disappears. User credentials and data are 
+				broadcast form boththe client and the wireless access point in a radius
+			    which may reach 300ft or more. 
+				The challenge is to prevent the hijacking of user credentials during 
+				authentication negotiation.
 
-					In addition Digital Certificates are specific. Users with certificates installed 
-					on their work computers and wireless devices must also install 
-					Certificates on their home computers to access enterprise applications 
-					and data from the home device.
+				Once authentication is complete it is vital to protect the privacy of the 
+				data being transmitted between the clent and access point.
+				(GDPR - coming into force 2018. Non-compliance will be met with 
+				a fine of 4% global revenue).
 
-					Ultimately, no matter how good an authentication, authorisation or 
-					encryption scheme may be hackers may find a way around it. 
-					As a result it may be impossible to design an impenetrable security technology. 
-					However, the goal of any security policy is to make it extremely difficult for 
-					unauthorised persons to gain access to network resources and information.
+				Digital certificates can also be difficult to install. Some users won't want
+			    to bother to download a certificate just to surf a specific website. 
+			    This can limit their usability with other B2B communications and intranets.
+
+				In addition Digital Certificates are specific. Users with certificates installed 
+				on their work computers and wireless devices must also install 
+				Certificates on their home computers to access enterprise applications 
+				and data from the home device.
+
+				Ultimately, no matter how good an authentication, authorisation or 
+				encryption scheme may be hackers may find a way around it. 
+				As a result it may be impossible to design an impenetrable security technology. 
+				However, the goal of any security policy is to make it extremely difficult for 
+				unauthorised persons to gain access to network resources and information.
 
 ##### Front & Back end Development Methods
 
@@ -208,7 +208,7 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 		improving products at a faster pace than organizations using traditional software development 
 		and infrastructure management processes. 
 		This speed enables organizations to better serve their customers and compete
-		 more effectively in the market.
+		more effectively in the market.
 
 		 Under a DevOps model, development and operations teams are no longer “siloed.” Sometimes, 
 		 these two teams are merged into a single team where the engineers work across the entire 
@@ -245,18 +245,20 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 		Transitioning to DevOps requires a change in culture and mindset. At its simplest, 
 		DevOps is about removing the barriers between two traditionally siloed teams, development 
-		and operations. In some organizations, there may not even be separate development and operations teams; 
-		engineers may do both. With DevOps, the two teams work together to optimize both the productivity 
-		of developers and the reliability of operations. 
+		and operations. In some organizations, there may not even be separate development and 
+		operations teams; engineers may do both. With DevOps, the two teams work together to 
+		optimize both the productivity  of developers and the reliability of operations. 
 
 		They strive to communicate frequently, increase efficiencies, 
-		and improve the quality of services they provide to customers. They take full ownership for their services, 
-		often beyond where their stated roles or titles have traditionally been scoped by thinking about the end customer’s 
+		and improve the quality of services they provide to customers. 
+		They take full ownership for their services, often beyond where their stated roles or titles 
+		have traditionally been scoped by thinking about the end customer’s 
 		needs and how they can contribute to solving those needs. 
 
 		Quality assurance and security teams may also become tightly integrated with these teams. 
 		Organizations using a DevOps model, regardless of their organizational structure, 
-		have teams that view the entire development and infrastructure lifecycle as part of their responsibilities.
+		have teams that view the entire development and infrastructure lifecycle as part of 
+		their responsibilities.
 
 
 ##### Integration Approach
