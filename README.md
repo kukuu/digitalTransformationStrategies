@@ -69,16 +69,21 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 ##### Project Delivery & Management Practices
 
-		Agile
-		SCRUM
-		Waterfall
-		KANBAN
-		TDD
-		XP
-		BDD
-		Project Management & Analysing process development in  Real Time
+	1. Agile
 
+	2. SCRUM
 
+	3. Waterfall
+
+	4. KANBAN
+
+	5. TDD
+
+	6. XP
+
+	7. BDD
+		
+		
 ##### System Architecture (Data Interchange) & APIs
 
 		A 
