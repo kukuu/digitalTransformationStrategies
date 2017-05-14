@@ -340,6 +340,24 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 		5. Managing and generating Configuration data for specified Components based on Framework.
 
 
+		Tools
+
+		1. GIT / GitHub - Probably the most common source management tool available. 
+		   Used for Source Control Managemen. In addition to its great forking and pull request features, 
+		   GitHub also has plugins that can connect with Jenkins to facilitate integration and deployment
+
+		2. Ansible - Configuration Management Tool similar to Puppet and Chef.
+
+		3. Docker - It eases configuration management, control issues, and scaling by allowing 
+		   containers to be moved from one place to another.
+
+		4. Jenkins - As an extensible automation server, Jenkins can be used as a simple CI server or 
+		   turned into the continuous delivery hub for any project.
+
+	   5.  Jenkins can easily distribute work across multiple machines, helping drive builds, tests 
+	       and deployments across multiple platforms faster
+
+
 ##### Quality Assurance Approach : 
 
 		1. Testing Environment & Test Coverage
