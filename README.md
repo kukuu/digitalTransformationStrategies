@@ -54,6 +54,8 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 	6. Manage unlimited scenarios and versions
 
+	7. Contingencies for change control
+
 
 ##### Types of information
 
@@ -137,9 +139,13 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 		4. Native XML
 
 				i.   AKAMAI (Caching & Delivery)
+
 				ii.  Squid (caching)
+
 				iii. Apache (Static files)
+
 				iv.  Orbeon (Transformation - XSLT/XSL FO)
+
 				v.   MarkLogic (Storage & Queries - XML/XQuery)
 
 		5. Pitfalls & Risk Management
@@ -208,6 +214,8 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 		6. Error Handling
 
 		7. Source Control
+
+		8.Unit Testing strategies for REST services
 
 
 ##### Portable Modular Components Architecture
@@ -290,7 +298,36 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 		their responsibilities.
 
 
-##### Integration Approach
+		Continuous Integration
+
+		Continuous integration is a software development practice where developers regularly 
+		merge their code changes into a central repository, after which automated builds and tests are run. 
+		The key goals of continuous integration are to find and address bugs quicker, improve software 
+		quality, and reduce the time it takes to validate and release new software updates.
+
+
+		Continuous delivery 
+
+		Continuous delivery is a software development practice where code changes are automatically built, 
+		tested, and prepared for a release to production. 
+		It expands upon continuous integration by deploying all code changes to a testing environment 
+		and/or a production environment after the build stage. When continuous delivery is implemented properly,
+	    developers will always have a deployment-ready build artifact that has passed through a 
+	    standardized test process.
+
+
+	    Microservices
+
+	    The microservices architecture is a design approach to build a single application as a set of 
+	    small services. Each service runs in its own process and communicates with other services through 
+	    a well-defined interface using a lightweight mechanism, typically an HTTP-based 
+	    application programming interface (API). Microservices are built around business capabilities;
+	    each service is scoped to a single purpose. You can use different frameworks or programming 
+	    languages to write microservices and deploy them independently, as a single service, 
+	    or as a group of services.
+				
+
+		Integration Approach
 
 		1. In-house: dev and production
 
@@ -298,14 +335,9 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 		3. Legacy systems
 
+		4. Mapping HTML with Search i.e Endeca Pages / Elastic Search / Machine Learning
 
-##### Mapping HTML with Search i.e Endeca Pages / Elastic Search
-
-
-##### Generating Configuration data for specified Components based on Framework.
-
-
-##### Unit Testing strategies for REST services
+		5. Managing and generating Configuration data for specified Components based on Framework.
 
 
 ##### Quality Assurance Approach : 
@@ -342,9 +374,6 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 	3. Social Media Tips for Finding and Engaging Your Target Audience 
 
 	3. Spotlight on Implicit Reaction Time (IRT)
-
-
-##### Change Control
 
 
 ##### Documentation
