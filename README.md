@@ -141,8 +141,9 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 					Physical network wirea are one of the primary helping ground to attackers 
 					seeking to hack into a LAN.
 
-					On a WLAN this obstacle disappears. User credentials and data are broadcast form both
-					the client and the wireless access point in a radius which may reach 300ft or more. 
+					On a WLAN this obstacle disappears. User credentials and data are 
+					broadcast form boththe client and the wireless access point in a radius
+				    which may reach 300ft or more. 
 					The challenge is to prevent the hijacking of user credentials during 
 					authentication negotiation.
 
@@ -202,60 +203,60 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 ##### DevOps, Continuous Integration & Continuous Delivery 
 
-DevOps is the combination of cultural philosophies, practices, and tools that increases an 
-organization’s  ability to deliver applications and services at high velocity: evolving and 
-improving products at a faster pace than organizations using traditional software development 
-and infrastructure management processes. 
-This speed enables organizations to better serve their customers and compete
- more effectively in the market.
+		DevOps is the combination of cultural philosophies, practices, and tools that increases an 
+		organization’s  ability to deliver applications and services at high velocity: evolving and 
+		improving products at a faster pace than organizations using traditional software development 
+		and infrastructure management processes. 
+		This speed enables organizations to better serve their customers and compete
+		 more effectively in the market.
 
- Under a DevOps model, development and operations teams are no longer “siloed.” Sometimes, 
- these two teams are merged into a single team where the engineers work across the entire 
- application lifecycle, from development and test to deployment to operations, and develop 
- a range of skills not limited to a single function. Quality assurance and security teams may also
- become more tightly integrated with development and operations and throughout the 
- application lifecycle.
+		 Under a DevOps model, development and operations teams are no longer “siloed.” Sometimes, 
+		 these two teams are merged into a single team where the engineers work across the entire 
+		 application lifecycle, from development and test to deployment to operations, and develop 
+		 a range of skills not limited to a single function. Quality assurance and security teams may also
+		 become more tightly integrated with development and operations and throughout the 
+		 application lifecycle.
 
-These teams use practices to automate processes that historically have been manual and slow. 
-They use a technology stack and tooling which help them operate and evolve applications 
-quickly and reliably. These tools also help engineers independently accomplish tasks 
-(for example, deploying code or provisioning infrastructure) that normally 
-would have required help from other teams, and this further increases a team’s velocity.
-
-
-Benefits include:
-
-	1. Speed
-
-	2. Rapid Delivery
-
-	3. Reliability
-
-	4. Scale
-
-	5. Improved Collaboration
-
-	6. Security
-
-	7. 
+		These teams use practices to automate processes that historically have been manual and slow. 
+		They use a technology stack and tooling which help them operate and evolve applications 
+		quickly and reliably. These tools also help engineers independently accomplish tasks 
+		(for example, deploying code or provisioning infrastructure) that normally 
+		would have required help from other teams, and this further increases a team’s velocity.
 
 
-DevOps Cultural Philosophy
+		Benefits include:
 
-Transitioning to DevOps requires a change in culture and mindset. At its simplest, 
-DevOps is about removing the barriers between two traditionally siloed teams, development 
-and operations. In some organizations, there may not even be separate development and operations teams; 
-engineers may do both. With DevOps, the two teams work together to optimize both the productivity 
-of developers and the reliability of operations. 
+			1. Speed
 
-They strive to communicate frequently, increase efficiencies, 
-and improve the quality of services they provide to customers. They take full ownership for their services, 
-often beyond where their stated roles or titles have traditionally been scoped by thinking about the end customer’s 
-needs and how they can contribute to solving those needs. 
+			2. Rapid Delivery
 
-Quality assurance and security teams may also become tightly integrated with these teams. 
-Organizations using a DevOps model, regardless of their organizational structure, 
-have teams that view the entire development and infrastructure lifecycle as part of their responsibilities.
+			3. Reliability
+
+			4. Scale
+
+			5. Improved Collaboration
+
+			6. Security
+
+			7. 
+
+
+		DevOps Cultural Philosophy
+
+		Transitioning to DevOps requires a change in culture and mindset. At its simplest, 
+		DevOps is about removing the barriers between two traditionally siloed teams, development 
+		and operations. In some organizations, there may not even be separate development and operations teams; 
+		engineers may do both. With DevOps, the two teams work together to optimize both the productivity 
+		of developers and the reliability of operations. 
+
+		They strive to communicate frequently, increase efficiencies, 
+		and improve the quality of services they provide to customers. They take full ownership for their services, 
+		often beyond where their stated roles or titles have traditionally been scoped by thinking about the end customer’s 
+		needs and how they can contribute to solving those needs. 
+
+		Quality assurance and security teams may also become tightly integrated with these teams. 
+		Organizations using a DevOps model, regardless of their organizational structure, 
+		have teams that view the entire development and infrastructure lifecycle as part of their responsibilities.
 
 
 ##### Integration Approach
