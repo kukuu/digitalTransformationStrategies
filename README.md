@@ -276,9 +276,10 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 ##### Unit Testing strategies for REST services
 
 
-##### Quality Assurance Approach
+##### Quality Assurance Approach : 
 
 		Testing Environment & Test Coverage
+		(http://bittersweetryan.github.io/jasmine-presentation/#slide-0)
 		Functionality testing through BDD test Automation
 		Browsers
 		Browser testing
