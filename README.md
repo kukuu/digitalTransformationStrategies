@@ -238,7 +238,6 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 
 			6. Security
 
-			7. 
 
 
 		DevOps Cultural Philosophy
