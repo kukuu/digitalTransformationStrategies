@@ -17,9 +17,9 @@ Browsers require the intermediate certificate to complete the certificate trust 
 
 Registered Certificate Authorities such as for example DigiCert must provide a known root certificate before their SSL Certificate can be trusted by SSL-enabled applications. With some servers such as Microsoft, the intermediate certificates are bundled with the SSL Certificate.
 
-Once you have your certificate installed, we recommend that you check that everything is working correctly using our free SSL Installation Diagnostics Tool. 
+Once you have your certificate installed, it is recommended that you check that everything is working correctly using an SSL Installation Diagnostics or Inspector Tool. 
 
-Alternatively, for an easy way to find and manage all the certificates on your network, try using a Certificate Inspector tool.
+
 
 <!-- 
 ####
