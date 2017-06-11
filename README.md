@@ -8,6 +8,31 @@ Two speeds are no longer enough for the modern IT business organizations. Unless
 
 Multi-speed IT is achieved by bringing together a network of skills, instituting a dynamic operating model and installing flexible governance models.
 
+##### Implementing Digital Strategy Framework 
+
+DSF can be built around the following. The exact structure will vary depending on the specific needs of the business:
+
+	1. Understand the Corporate Strategy and business domain
+
+	2. Assess current state of IT Strategy and understanding  existing systems and processes
+
+	3. Define Initiatives 
+
+	4. Develop a Strategy Roadmap
+
+		i. Objective setting and measures of success (What you want to achieve - digitally and as a wider business)
+
+		ii. Opportunity Analysis - What you could be doing and potential rewards
+
+		iii. Barrier analysis - What’s stopping you doing this? How we can get around this
+
+		iv. Customer profiling and needs analysis - How you could serve your audiences better
+
+	    v. Stakeholder engagement and Market Analysis.
+
+	5. Communicate  strategy
+
+
 ##### Key services to deliver digital solutions and consulting services:
  
 	1. Business model innovation
@@ -25,19 +50,6 @@ Multi-speed IT is achieved by bringing together a network of skills, instituting
 	7. KPI
 
 	8. Reporting
-
-
-##### Business Development approach
-
-	1. Understand the Corporate Strategy and business domain
-
-	2. Assess current state of IT Strategy and Product background
-
-	3. Define Initiatives
-
-	4. Develop a Strategy Roadmap
-
-	5. Communicate the Strategy
 		
 
 ##### Budgeting & Planning - Process planning and active management control 
