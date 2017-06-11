@@ -18,7 +18,8 @@ DSF can be built around the following. The exact structure will vary depending o
 
 	4. Develop a Strategy Roadmap
 
-		i. Objective setting and measures of success (What you want to achieve - digitally and as a wider business)
+		i. Objective setting and measures of success (What you want to achieve - 
+			digitally and as a wider business)
 
 		ii. Opportunity Analysis - What you could be doing and potential rewards
 
@@ -26,7 +27,7 @@ DSF can be built around the following. The exact structure will vary depending o
 
 		iv. Customer profiling and needs analysis - How you could serve your audiences better
 
-	    v. Stakeholder engagement and Market Analysis.
+	     v. Stakeholder engagement and Market Analysis.
 
 	5. Communicate  strategy
 
