@@ -6,7 +6,7 @@ Two speeds are no longer enough for the modern IT business organizations. Unless
 
 Multi-speed IT is achieved by bringing together a network of skills, instituting a dynamic operating model and installing flexible governance models.
 
-##### Implementing Digital Strategy Framework 
+##### Digital Strategy Framework 
 
 DSF can be built around the following. The exact structure will vary depending on the specific needs of the business:
 
