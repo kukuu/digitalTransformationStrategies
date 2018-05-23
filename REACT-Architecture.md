@@ -1,15 +1,16 @@
 Architecture: Real Web Application with REACT
+
 ..............................................
 
 Steps:
 
 1. REACT project setup with esLint
 
-2. REACT router setupwith REDUX
+2. REACT router setup with REDUX
 
 3. FORMS and FORM validation
 
-4. Page Components=> Home::SignUp::Dashboard
+4. Page Components=> Home::Sign Up::Dashboard
 
 5. NodeJS setup, Babel and esLint
 
