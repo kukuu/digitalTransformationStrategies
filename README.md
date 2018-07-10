@@ -252,157 +252,157 @@ DSF can be built around the following. The exact structure will vary depending o
 
 ##### DevOps, Continuous Integration & Continuous Delivery 
 
-		DevOps is the combination of cultural philosophies, practices, and tools that increases an 
-		organization’s  ability to deliver applications and services at high velocity: evolving and 
-		improving products at a faster pace than organizations using traditional software development 
-		and infrastructure management processes. 
-		This speed enables organizations to better serve their customers and compete
-		more effectively in the market.
+DevOps is the combination of cultural philosophies, practices, and tools 
+that increases an organization’s  ability to deliver applications and services at high velocity: evolving and 
+improving products at a faster pace than organizations using traditional software development 
+and infrastructure management processes. 
+This speed enables organizations to better serve their customers and compete
+more effectively in the market.
 
-		 Under a DevOps model, development and operations teams are no longer “siloed.” Sometimes, 
-		 these two teams are merged into a single team where the engineers work across the entire 
-		 application lifecycle, from development and test to deployment to operations, and develop 
-		 a range of skills not limited to a single function. Quality assurance and security teams may also
-		 become more tightly integrated with development and operations and throughout the 
-		 application lifecycle.
+ Under a DevOps model, development and operations teams are no longer “siloed.” Sometimes, 
+ these two teams are merged into a single team where the engineers work across the entire 
+ application lifecycle, from development and test to deployment to operations, and develop 
+ a range of skills not limited to a single function. Quality assurance and security teams may also
+ become more tightly integrated with development and operations and throughout the 
+ application lifecycle.
 
-		These teams use practices to automate processes that historically have been manual and slow. 
-		They use a technology stack and tooling which help them operate and evolve applications 
-		quickly and reliably. These tools also help engineers independently accomplish tasks 
-		(for example, deploying code or provisioning infrastructure) that normally 
-		would have required help from other teams, and this further increases a team’s velocity.
-
-
-		Benefits include:
-
-			1. Speed
-
-			2. Rapid Delivery
-
-			3. Reliability
-
-			4. Scale
-
-			5. Improved Collaboration
-
-			6. Security
+These teams use practices to automate processes that historically have been manual and slow. 
+They use a technology stack and tooling which help them operate and evolve applications 
+quickly and reliably. These tools also help engineers independently accomplish tasks 
+(for example, deploying code or provisioning infrastructure) that normally 
+would have required help from other teams, and this further increases a team’s velocity.
 
 
+Benefits include:
 
-		DevOps Cultural Philosophy
+	1. Speed
 
-		Transitioning to DevOps requires a change in culture and mindset. At its simplest, 
-		DevOps is about removing the barriers between two traditionally siloed teams, development 
-		and operations. In some organizations, there may not even be separate development and 
-		operations teams; engineers may do both. With DevOps, the two teams work together to 
-		optimize both the productivity  of developers and the reliability of operations. 
+	2. Rapid Delivery
 
-		They strive to communicate frequently, increase efficiencies, 
-		and improve the quality of services they provide to customers. 
-		They take full ownership for their services, often beyond where their stated roles or titles 
-		have traditionally been scoped by thinking about the end customer’s 
-		needs and how they can contribute to solving those needs. 
+	3. Reliability
 
-		Quality assurance and security teams may also become tightly integrated with these teams. 
-		Organizations using a DevOps model, regardless of their organizational structure, 
-		have teams that view the entire development and infrastructure lifecycle as part of 
-		their responsibilities.
+	4. Scale
+
+	5. Improved Collaboration
+
+	6. Security
 
 
-		Continuous Integration
 
-		Continuous integration is a software development practice where developers regularly 
-		merge their code changes into a central repository, after which automated builds and tests are run. 
-		The key goals of continuous integration are to find and address bugs quicker, improve software 
-		quality, and reduce the time it takes to validate and release new software updates.
+DevOps Cultural Philosophy
 
+Transitioning to DevOps requires a change in culture and mindset. At its simplest, 
+DevOps is about removing the barriers between two traditionally siloed teams, development 
+and operations. In some organizations, there may not even be separate development and 
+operations teams; engineers may do both. With DevOps, the two teams work together to 
+optimize both the productivity  of developers and the reliability of operations. 
 
-		Continuous delivery 
+They strive to communicate frequently, increase efficiencies, 
+and improve the quality of services they provide to customers. 
+They take full ownership for their services, often beyond where their stated roles or titles 
+have traditionally been scoped by thinking about the end customer’s 
+needs and how they can contribute to solving those needs. 
 
-		Continuous delivery is a software development practice where code changes are automatically built, 
-		tested, and prepared for a release to production. 
-		It expands upon continuous integration by deploying all code changes to a testing environment 
-		and/or a production environment after the build stage. When continuous delivery is implemented properly,
-	    developers will always have a deployment-ready build artifact that has passed through a 
-	    standardized test process.
-
-
-	    Microservices
-
-	    The microservices architecture is a design approach to build a single application as a set of 
-	    small services. Each service runs in its own process and communicates with other services through 
-	    a well-defined interface using a lightweight mechanism, typically an HTTP-based 
-	    application programming interface (API). Microservices are built around business capabilities;
-	    each service is scoped to a single purpose. You can use different frameworks or programming 
-	    languages to write microservices and deploy them independently, as a single service, 
-	    or as a group of services.
-				
-
-		Integration Approach
-
-		1. In-house: dev and production
-
-		2. In-house data with Cloud systems
-
-		3. Legacy systems
-
-		4. Mapping HTML with Search i.e Endeca Pages / Elastic Search / Machine Learning
-
-		5. Managing and generating Configuration data for specified Components based on Framework.
+Quality assurance and security teams may also become tightly integrated with these teams. 
+Organizations using a DevOps model, regardless of their organizational structure, 
+have teams that view the entire development and infrastructure lifecycle as part of 
+their responsibilities.
 
 
-		Tools
+Continuous Integration
 
-		1. GIT / GitHub - Probably the most common source management tool available. 
-		   Used for Source Control Managemen. In addition to its great forking and pull request features, 
-		   GitHub also has plugins that can connect with Jenkins to facilitate integration and deployment
+Continuous integration is a software development practice where developers regularly 
+merge their code changes into a central repository, after which automated builds and tests are run. 
+The key goals of continuous integration are to find and address bugs quicker, improve software 
+quality, and reduce the time it takes to validate and release new software updates.
 
-		2. Ansible - Configuration Management Tool similar to Puppet and Chef.
 
-		3. Docker - It eases configuration management, control issues, and scaling by allowing 
-		   containers to be moved from one place to another.
+Continuous delivery 
 
-		4. Jenkins - As an extensible automation server, Jenkins can be used as a simple CI server or 
-		   turned into the continuous delivery hub for any project.
+Continuous delivery is a software development practice where code changes are automatically built, 
+tested, and prepared for a release to production. 
+It expands upon continuous integration by deploying all code changes to a testing environment 
+and/or a production environment after the build stage. When continuous delivery is implemented properly,
+developers will always have a deployment-ready build artifact that has passed through a 
+standardized test process.
 
-	   5.  Jenkins can easily distribute work across multiple machines, helping drive builds, tests 
-	       and deployments across multiple platforms faster
+
+Microservices
+
+The microservices architecture is a design approach to build a single application as a set of 
+small services. Each service runs in its own process and communicates with other services through 
+a well-defined interface using a lightweight mechanism, typically an HTTP-based 
+application programming interface (API). Microservices are built around business capabilities;
+each service is scoped to a single purpose. You can use different frameworks or programming 
+languages to write microservices and deploy them independently, as a single service, 
+or as a group of services.
+
+
+Integration Approach
+
+1. In-house: dev and production
+
+2. In-house data with Cloud systems
+
+3. Legacy systems
+
+4. Mapping HTML with Search i.e Endeca Pages / Elastic Search / Machine Learning
+
+5. Managing and generating Configuration data for specified Components based on Framework.
+
+
+Tools
+
+1. GIT / GitHub - Probably the most common source management tool available. 
+   Used for Source Control Managemen. In addition to its great forking and pull request features, 
+   GitHub also has plugins that can connect with Jenkins to facilitate integration and deployment
+
+2. Ansible - Configuration Management Tool similar to Puppet and Chef.
+
+3. Docker - It eases configuration management, control issues, and scaling by allowing 
+   containers to be moved from one place to another.
+
+4. Jenkins - As an extensible automation server, Jenkins can be used as a simple CI server or 
+   turned into the continuous delivery hub for any project.
+
+5.  Jenkins can easily distribute work across multiple machines, helping drive builds, tests 
+and deployments across multiple platforms faster
 
 
 ##### Quality Assurance Approach : 
 
-		1. Testing Environment & Test Coverage
-		(http://bittersweetryan.github.io/jasmine-presentation/#slide-0)
+1. Testing Environment & Test Coverage
+(http://bittersweetryan.github.io/jasmine-presentation/#slide-0)
 
-		2. Functionality testing through BDD test Automation
+2. Functionality testing through BDD test Automation
 
-		3. Browsers
+3. Browsers
 
-		4. Browser testing
+4. Browser testing
 
-		5. Operating Systems
+5. Operating Systems
 
-		6. Mobile Devices
+6. Mobile Devices
 
 
 ##### Integrating Social Media, Email & Campaign Strategies:
 
-	What if your brand could engage people in conversations about your product, popular TV shows,
-	 movies or sporting events while they are engaging with it? 
+What if your brand could engage people in conversations about your product, popular TV shows,
+ movies or sporting events while they are engaging with it? 
 
-	1. Behaviours
+1. Behaviours
 
-		i. Demographics
-		
-		ii. Online Behavior
-		
-		iii Conversations
+	i. Demographics
 
-	2. Tools For Tapping Into and Measuring Consumer Behavior
+	ii. Online Behavior
 
-	3. Social Media Tips for Finding and Engaging Your Target Audience 
+	iii Conversations
 
-	3. Spotlight on Implicit Reaction Time (IRT)
+2. Tools For Tapping Into and Measuring Consumer Behavior
+
+3. Social Media Tips for Finding and Engaging Your Target Audience 
+
+3. Spotlight on Implicit Reaction Time (IRT)
 
 
 ##### Documentation
@@ -410,212 +410,212 @@ DSF can be built around the following. The exact structure will vary depending o
 
 ##### Cloud Computing Platforms & Service Models
 
-	Cloud Computing is a broad term that describes a broad range of services. 
-	Since the Cloud is a broad collection of services, 
-	organizations can choose where, when, and how they use Cloud Computing. 
-	Such services are, Software as a Service (SaaS), Platform as a Service (PaaS) and 
-	Infrastructure as a Service (IaaS).
+Cloud Computing is a broad term that describes a broad range of services. 
+Since the Cloud is a broad collection of services, 
+organizations can choose where, when, and how they use Cloud Computing. 
+Such services are, Software as a Service (SaaS), Platform as a Service (PaaS) and 
+Infrastructure as a Service (IaaS).
 
-	Cloud computing is a model for enabling convenient, on-demand network access to a shared pool
-	 of configurable computing resources (e.g., networks, servers, storage, applications, and services) 
-	 that can be rapidly provisioned and released with minimal management effort or 
-	 service provider interaction. 
-	 By using these services there is the potential to reduce IT support costs by outsourcing 
-	 hardware and software maintenance and support to the providers.
+Cloud computing is a model for enabling convenient, on-demand network access to a shared pool
+ of configurable computing resources (e.g., networks, servers, storage, applications, and services) 
+ that can be rapidly provisioned and released with minimal management effort or 
+ service provider interaction. 
+ By using these services there is the potential to reduce IT support costs by outsourcing 
+ hardware and software maintenance and support to the providers.
 
-	 Characteristics associated with Cloud Computing services include:
+ Characteristics associated with Cloud Computing services include:
 
-		On-demand self-service. The ability for an end user to sign up and receive services without 
-		the long delays that have characterized traditional IT normally using thin 
-		client like the Browser.
+On-demand self-service. The ability for an end user to sign up and receive services without 
+the long delays that have characterized traditional IT normally using thin 
+client like the Browser.
 
-		Broad network access. Ability to access the service via standard 
-		platforms (desktop, laptop, mobile etc)
+Broad network access. Ability to access the service via standard 
+platforms (desktop, laptop, mobile etc)
 
-		Resource pooling. Resources are pooled across multiple customers.
+Resource pooling. Resources are pooled across multiple customers.
 
-		Rapid elasticity. Capability can scale to cope with demand peaks.
+Rapid elasticity. Capability can scale to cope with demand peaks.
 
-		Measured Service. Billing is metered and delivered as a utility service
+Measured Service. Billing is metered and delivered as a utility service
 
 
 ###### Models
 
-	SaaS (Software as a Service) applications are designed for end-users, delivered over the web.
+SaaS (Software as a Service) applications are designed for end-users, delivered over the web.
 
-		SaaS is a software distribution model in which applications are hosted by a vendor 
-		or service provider and made available to customers over a network, typically the Internet.
+	SaaS is a software distribution model in which applications are hosted by a vendor 
+	or service provider and made available to customers over a network, typically the Internet.
 
-		With Saas model you are provided with access to application softwares often 
-		referred to as on-demand softwares. 
-		You don't have to worry about the installation, setup and running of the application. 
-		Service provider will do that for you. You just have to pay and use it through some client.
+	With Saas model you are provided with access to application softwares often 
+	referred to as on-demand softwares. 
+	You don't have to worry about the installation, setup and running of the application. 
+	Service provider will do that for you. You just have to pay and use it through some client.
 
-		Example: Google Apps, Microsoft Office 365.
-
-
-	PaaS (Platform as a Service) is the set of tools and services designed to make coding and deploying 
-	those applications quick and efficient over the Internet. 
-
-		The model is a category of cloud computing services that provides a platform allowing 
-		customers to develop, run, and manage web applications without the complexity of building and
-		maintaining the infrastructure typically associated with developing and launching 
-		an app - via the browser.
-
-		Examples: AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App Engine, 
-		and Apache Stratos.
+	Example: Google Apps, Microsoft Office 365.
 
 
-	IaaS (Infrastructure as a Service), is the hardware and software that powers it all – servers, 
-	storage, networks, operating system. 
+PaaS (Platform as a Service) is the set of tools and services designed to make coding and deploying 
+those applications quick and efficient over the Internet. 
 
-		IaaS provides you the computing infrastructure, physical or (quite often) virtual machines and 
-		other resources like virtual-machine disk image library, block and file-based storage, firewalls,
-		load balancers, IP addresses, virtual local area networks etc. 
+	The model is a category of cloud computing services that provides a platform allowing 
+	customers to develop, run, and manage web applications without the complexity of building and
+	maintaining the infrastructure typically associated with developing and launching 
+	an app - via the browser.
 
-		Examples: Amazon EC2, Windows Azure, Rackspace, Google Compute Engine.
+	Examples: AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App Engine, 
+	and Apache Stratos.
 
-	Additional points to note:
 
-		AWS(Amazon web services) is a complete suite which involves a whole bunch of useful web services. 
-		Most popular are EC2 and S3 and they belong to IaaS service model.
-		
-		Although Hadoop is based on previous works by Google(GFS and MapReduce), it is not from Google. 
-		It is an Apache project.It is just a distributed computing platform and does not fall into 
-		any of these service models
-		
-		Windows Azure is both a PaaS and IaaS.
+IaaS (Infrastructure as a Service), is the hardware and software that powers it all – servers, 
+storage, networks, operating system. 
 
-		Scalability
+	IaaS provides you the computing infrastructure, physical or (quite often) virtual machines and 
+	other resources like virtual-machine disk image library, block and file-based storage, firewalls,
+	load balancers, IP addresses, virtual local area networks etc. 
 
-		Performance
-		Hadoop MapReduce (Hadoop Map/Reduce) is a software framework for distributed processing of 
-		large data sets on compute clusters of commodity hardware. It is a sub-project of the 
-		Apache Hadoop project. The framework takes care of scheduling tasks, 
-		monitoring them and re-executing any failed tasks. 
+	Examples: Amazon EC2, Windows Azure, Rackspace, Google Compute Engine.
 
-		Choose a particular platform based on your requirements and needs. For example, if you want to 
-		have a Hadoop cluster on which you would run MapReduce jobs, you will find EC2 a perfect fit, 
-		which is IaaS. On the other hand if you have some application, written in some language, 
-		and you want to deploy it over the cloud,  you would choose something like Heroku, 
-		which is an example of PaaS.
+Additional points to note:
+
+	AWS(Amazon web services) is a complete suite which involves a whole bunch of useful web services. 
+	Most popular are EC2 and S3 and they belong to IaaS service model.
+
+	Although Hadoop is based on previous works by Google(GFS and MapReduce), it is not from Google. 
+	It is an Apache project.It is just a distributed computing platform and does not fall into 
+	any of these service models
+
+	Windows Azure is both a PaaS and IaaS.
+
+	Scalability
+
+	Performance
+	Hadoop MapReduce (Hadoop Map/Reduce) is a software framework for distributed processing of 
+	large data sets on compute clusters of commodity hardware. It is a sub-project of the 
+	Apache Hadoop project. The framework takes care of scheduling tasks, 
+	monitoring them and re-executing any failed tasks. 
+
+	Choose a particular platform based on your requirements and needs. For example, if you want to 
+	have a Hadoop cluster on which you would run MapReduce jobs, you will find EC2 a perfect fit, 
+	which is IaaS. On the other hand if you have some application, written in some language, 
+	and you want to deploy it over the cloud,  you would choose something like Heroku, 
+	which is an example of PaaS.
 
 
 ##### Developing technology based innovation/tool for limited budget?
 
-			1. Plan the funding requirements to maintain momentum
+1. Plan the funding requirements to maintain momentum
 
-				Investigate what external support is available, including 
-				accelerators (a program designed to help startups get off the ground quickly, 
-				often in exchange for equity), and incubators (similar to accelerators, 
-				but usually in-house at a corporate or investor parent).
+	Investigate what external support is available, including 
+	accelerators (a program designed to help startups get off the ground quickly, 
+	often in exchange for equity), and incubators (similar to accelerators, 
+	but usually in-house at a corporate or investor parent).
 
-			2. Choice of Technology
+2. Choice of Technology
 
-				Don’t let the technology distract from the end goal of creating something 
-				that benefits your users.
+	Don’t let the technology distract from the end goal of creating something 
+	that benefits your users.
 
-			4. Man power
+4. Man power
 
-				Find  developers who are happy to co-design with your users, is affordable, 
-				and aligned with your ethos
+Find  developers who areZ happy to co-design with your users, is affordable, 
+	and aligned with your ethos
 
-			5. Educate people in your organisation about the innovation at the earliest stage 
-			possible (startup mindset), take advantage of new technologies.
+5. Educate people in your organisation about the innovation at the earliest stage 
+possible (startup mindset), take advantage of new technologies.
 
-			Possible use of Agile and Blockchain platform for sharing resources and transactions. 
+Possible use of Agile and Blockchain platform for sharing resources and transactions. 
 
 		
 
-			Why Agile?
+Why Agile?
 
-				1. Revenue 
-				The iterative nature of agile development means features are delivered incrementally, enabling some
-				 benefits to be realised early as the product continues to develop.
+	1. Revenue 
+	The iterative nature of agile development means features are delivered incrementally, enabling some
+	 benefits to be realised early as the product continues to develop.
 
-				2. Speed-to-market
+	2. Speed-to-market
 
-				Research suggests about 80% of all market leaders were first to market. As well as the higher
-				revenue from incremental delivery, agile development philosophy also supports the notion of early 
-				and regular releases, and ‘perpetual beta’.
+	Research suggests about 80% of all market leaders were first to market. As well as the higher
+	revenue from incremental delivery, agile development philosophy also supports the notion of early 
+	and regular releases, and ‘perpetual beta’.
 
-				3. Quality
+	3. Quality
 
-				A key principle of agile development is that testing is integrated throughout the cycle, enabling regular
-				 inspection of the working product as it develops. This allows the product owner to make adjustments 
-				 if necessary and gives the product team early sight of any quality issues.
+	A key principle of agile development is that testing is integrated throughout the cycle, enabling regular
+	 inspection of the working product as it develops. This allows the product owner to make adjustments 
+	 if necessary and gives the product team early sight of any quality issues.
 
-				4. Visibility
+	4. Visibility
 
-				Agile development principles encourage active user involvement throughout the product’s development 
-				and a very cooperative collaborative approach. This provides excellent visibility for key stakeholders, 
-				both of the project’s progress and of the product itself, which in turn helps to ensure that 
-				expectations are effectively managed.
+	Agile development principles encourage active user involvement throughout the product’s development 
+	and a very cooperative collaborative approach. This provides excellent visibility for key stakeholders, 
+	both of the project’s progress and of the product itself, which in turn helps to ensure that 
+	expectations are effectively managed.
 
-				5. Risk Management
+5. Risk Management
 
-				Small incremental releases made visible to the product owner and product team through its development 
-				help to identify any issues early and make it easier to respond to change. The clear visibility in agile 
-				development helps to ensure that any necessary decisions can be taken at the earliest possible opportunity, 
-				while there’s still time to make a material difference to the outcome.
+Small incremental releases made visible to the product owner and product team through its development 
+help to identify any issues early and make it easier to respond to change. The clear visibility in agile 
+development helps to ensure that any necessary decisions can be taken at the earliest possible opportunity, 
+while there’s still time to make a material difference to the outcome.
 
-				6. Flexibility / Agility
+6. Flexibility / Agility
 
-				In traditional development projects, we write a big spec up-front and then tell business owners how expensive 
-				it is to change anything, particularly as the project goes on. In fear of scope creep and a never-ending project, 
-				we resist changes and put people through a change control committee to keep them to the essential minimum. 
-				Agile development principles are different. In agile development, change is accepted. In fact, it’s expected. 
-				Because the one thing that’s certain in life is change. Instead the timescale is fixed and requirements emerge 
-				and evolve as the product is developed. Of course for this to work, it’s imperative to have an actively 
-				involved stakeholder who understands this concept and makes the necessary trade-off decisions, 
-				trading existing scope for new.
+In traditional development projects, we write a big spec up-front and then tell business owners how expensive 
+it is to change anything, particularly as the project goes on. In fear of scope creep and a never-ending project, 
+we resist changes and put people through a change control committee to keep them to the essential minimum. 
+Agile development principles are different. In agile development, change is accepted. In fact, it’s expected. 
+Because the one thing that’s certain in life is change. Instead the timescale is fixed and requirements emerge 
+and evolve as the product is developed. Of course for this to work, it’s imperative to have an actively 
+involved stakeholder who understands this concept and makes the necessary trade-off decisions, 
+trading existing scope for new.
 
-				7. Cost Control
+7. Cost Control
 
-				The above approach of fixed timescales and evolving requirements enables a fixed budget. 
-				The scope of the product and its features are variable, rather than the cost.
+The above approach of fixed timescales and evolving requirements enables a fixed budget. 
+The scope of the product and its features are variable, rather than the cost.
 
-				8. Business Engagement/Customer Satisfaction
+8. Business Engagement/Customer Satisfaction
 
-				The active involvement of a user representative and/or product owner, the high visibility of the product 
-				and progress, and the flexibility to change when change is needed, create much better business engagement 
-				and customer satisfaction. This is an important benefit that can create much more positive 
-				and enduring working relationships.
+The active involvement of a user representative and/or product owner, the high visibility of the product 
+and progress, and the flexibility to change when change is needed, create much better business engagement 
+and customer satisfaction. This is an important benefit that can create much more positive 
+and enduring working relationships.
 
-				9. Right Product
+9. Right Product
 
-				Above all other points, the ability for agile development requirements to emerge and evolve, and the ability 
-				to embrace change (with the appropriate trade-offs), the team build the right product. It’s all too common in 
-				more traditional projects to deliver a “successful” project in IT terms and find that the product is not what 
-				was expected, needed or hoped for. In agile development, the emphasis is absolutely on building the right product.
+Above all other points, the ability for agile development requirements to emerge and evolve, and the ability 
+to embrace change (with the appropriate trade-offs), the team build the right product. It’s all too common in 
+more traditional projects to deliver a “successful” project in IT terms and find that the product is not what 
+was expected, needed or hoped for. In agile development, the emphasis is absolutely on building the right product.
 
-				10. More Enjoyable!
+10. More Enjoyable!
 
-				The active involvement, cooperation and collaboration make agile development teams a much more 
-				enjoyable place for most people. Instead of big specs, we discuss requirements in workshops. 
-				Instead of lengthy status reports, we collaborate around a task-board discussing progress. 
-				Instead of long project plans and change management committees, we discuss what’s right for the product
-				 and project and the team is empowered to make decisions. In my experience this makes it a much more rewarding
-				  approach for everyone. In turn this helps to create highly motivated, 
-				  high performance teams that are highly co-operative.
+The active involvement, cooperation and collaboration make agile development teams a much more 
+enjoyable place for most people. Instead of big specs, we discuss requirements in workshops. 
+Instead of lengthy status reports, we collaborate around a task-board discussing progress. 
+Instead of long project plans and change management committees, we discuss what’s right for the product
+ and project and the team is empowered to make decisions. In my experience this makes it a much more rewarding
+  approach for everyone. In turn this helps to create highly motivated, 
+  high performance teams that are highly co-operative.
 
 
-			
 
-			Why Blockchain?
 
-				It is a decentralised platform and peer to peer avoiding hacking.
-				
-				By storing data across its network, the blockchain eliminates the risks that come 
-				with data being held centrally.
+Why Blockchain?
 
-				Its network lacks centralized points of vulnerability that computer hackers can exploit. 
-				Today’s internet has security problems that are familiar to everyone. We all rely on the 
-				“username/password” system to protect our identity and assets online. Blockchain security
-				methods use encryption technology.
+It is a decentralised platform and peer to peer avoiding hacking.
 
-				With Blockchain Users  to the network have private keys and the network stores 
-				public keys for encryption/decryption when called upon.
+By storing data across its network, the blockchain eliminates the risks that come 
+with data being held centrally.
+
+Its network lacks centralized points of vulnerability that computer hackers can exploit. 
+Today’s internet has security problems that are familiar to everyone. We all rely on the 
+“username/password” system to protect our identity and assets online. Blockchain security
+methods use encryption technology.
+
+With Blockchain Users  to the network have private keys and the network stores 
+public keys for encryption/decryption when called upon.
 
 
 		
