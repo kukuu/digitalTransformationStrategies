@@ -1,5 +1,7 @@
 #  Digital Transformation and Strategic Thinking: Multi-speed IT
 
+Digital transformation is more than technology. It is a mindset shift. It is the adoption of new ways of working and ultimately it is the marrying of people and process to gain a competitive advantage.
+
 Businesses today consumes IT at several speeds all at once. Innovation and digital disruption require quick response, legacy systems call for deliberate care, and shifting operating models need a pace of change somewhere in between. 
 
 Two speeds are no longer enough for the modern IT business organizations. Unless the Technical Leadership can master the art of delivering change at the pace demanded by each area of the business, they risk being relegated to tending legacy systems. There is a calling need to implement multi-speed IT strategy.
