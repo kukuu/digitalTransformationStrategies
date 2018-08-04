@@ -252,7 +252,7 @@ DSF can be built around the following. The exact structure will vary depending o
 ##### SEO, Analytics and Omniture tagging specifications
 
 
-##### DevOps, Continuous Integration & Continuous Delivery 
+##### DevOps, Continuous Integration, Continuous Delivery & Continuous Deployment
 
 DevOps is the combination of cultural philosophies, practices, and tools 
 that increases an organization’s  ability to deliver applications and services at high velocity: evolving and 
