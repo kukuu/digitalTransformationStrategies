@@ -1,4 +1,4 @@
-#  Digital Transformation, 
+#  Digital Transformation 
 
 Is the change associated with the application of digital technology. However, digital transformation is more than technology. It is a mindset shift. It is the adoption of new ways of working and ultimately it is the marrying of people and process to gain a competitive advantage.
 
