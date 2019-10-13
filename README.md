@@ -1,16 +1,13 @@
-#  Digital Transformation and Strategic Thinking: Multi-speed IT
+#  Digital Transformation, 
 
-Digital transformation is more than technology. It is a mindset shift. It is the adoption of new ways of working and ultimately it is the marrying of people and process to gain a competitive advantage.
+Is the change associated with the application of digital technology. However, digital transformation is more than technology. It is a mindset shift. It is the adoption of new ways of working and ultimately it is the marrying of people and process to gain a competitive advantage.
 
-Businesses today consumes IT at several speeds all at once. Innovation and digital disruption require quick response, legacy systems call for deliberate care, and shifting operating models need a pace of change somewhere in between. 
+When planning for digital transformation, organizations must factor the cultural changes they'll confront as workers and organizational leaders adjust to adopting and relying on unfamiliar technologies. 
 
-Two speeds are no longer enough for the modern IT business organizations. Unless the Technical Leadership can master the art of delivering change at the pace demanded by each area of the business, they risk being relegated to tending legacy systems. There is a calling need to implement multi-speed IT strategy.
+Practices used in transformation include methodologies like Agile (SCRUM, KANBAN) , XP, Waterfall,  Continuous Delivery, Continuous Deployment, Micro-services, Containerization, Severless Computing, IaaS, PaaS, ITaaS, Headerless CMS, Hybrid CMS, Big Data, Analytics, Machine Learning, Change Management, Cloud Computing, Digital Security, Leadership & Development,IoT,Chat Bots, Video Chats, and Mobility Management.
 
-Multi-speed IT is achieved by bringing together a network of skills, instituting a dynamic operating model and installing flexible governance models.
 
-##### Digital Strategy Framework 
-
-DSF can be built around the following. The exact structure will vary depending on the specific needs of the business:
+DT can be built around the following. The exact structure will vary depending on the specific needs of the business:
 
 	1. Understand the Corporate Strategy and business domain
 
@@ -33,8 +30,83 @@ DSF can be built around the following. The exact structure will vary depending o
 
 	5. Communicate  strategy
 
+### Execution
 
-##### Key services to deliver digital solutions and consulting services:
+The CADMA Syndrome
+
+C - Create a Vision
+
+A - Analyse the market
+
+D - Design the experience
+
+M - Measure the impact
+
+A - Adjust the infrastructure.
+
+
+## Multi-speed IT
+
+Businesses today consumes IT at several speeds all at once. Innovation and digital disruption require quick response, legacy systems call for deliberate care, and shifting operating models need a pace of change somewhere in between. 
+
+Two speeds are no longer enough for the modern IT business organizations. Unless the Technical Leadership can master the art of delivering change at the pace demanded by each area of the business, they risk being relegated to tending legacy systems. There is a calling need to implement multi-speed IT strategy.
+
+Multi-speed IT is achieved by bringing together a network of skills, instituting a dynamic operating model and installing flexible governance models.
+
+
+## Strategy
+
+i. Find your platform
+
+Once your purpose is clear, build a platform around it, ensuring the customer is the centre of gravity. Made up of proprietary data, expertise and workflows, the platform is your way of staking a claim on the market.
+
+Reinvent the core of your business by building a platform that plays to your strengths.
+Nail down precisely what your business does best. 
+
+ii. Build it on data
+
+It’s what you do with your data that really matters, so focus all your efforts on feeding your platform and informing your core business strategy.
+
+Carefully curate data that serves your platform and differentiates your business.
+
+Curate and enrich your data so it meets specific business needs, functions and workflows, and put in place robust data governance.
+
+iii. Architect for change
+
+Design to sustain high availability.
+
+Build scale, speed and flexibility into every area of your business, starting with the platform.
+
+Create a manifesto for continuous change. Align your business architecture with the emerging technology architecture and link every change to the legacy system with your vision of a future state, using the open hybrid multi-cloud as a stepping stone.
+
+iv. Design intelligent workflows
+
+Infuse machine and human intelligence into your customer-facing workflows.
+
+Today’s customers expect to be engaged in ways that are humanised, founded in empathy and attuned to context. Build strategic workflows that are automated, intelligent and efficient; they will learn continuously and augment employee decisions.
+
+
+v. Get agile
+
+Work fast - with purpose - and break down internal boundaries to delight customers.
+
+Strategic agility is the foundation for culture transformation, new ways of working and exponential growth. Assemble agile teams that span organisational boundaries to naturally share ideas and insights, with one goal in mind: to meet customer needs quickly.
+
+vi. Empower your people
+
+Give your people the tools to grow in line with business needs. Leverage AI to identify skills gaps, design personalised learning programmes and mobilise people across new roles and opportunities.
+
+Continuously upskill your existing talent and hire curious, inventive people.
+
+Reward curiosity and an experimental mindset in hires and existing talent.
+
+vii. Scale up security
+
+Find the sweet spot between frictionless customer experiences and trusted transactions.
+Cybersecurity is critical to trust in, and longevity of, your business platform. AI can take cybersecurity to the next level, framing it as proactive rather than defensive and ensuring strong authentication of transactions without restricting customer engagement.
+
+
+## Key services to deliver digital solutions and consulting services:
  
 	1. Business model innovation
 
@@ -53,7 +125,7 @@ DSF can be built around the following. The exact structure will vary depending o
 	8. Reporting
 		
 
-##### Budgeting & Planning - Process planning and active management control 
+## Budgeting & Planning - Process planning and active management control 
 
 	1. Plan and Analyze in Real-Time
 
@@ -70,7 +142,7 @@ DSF can be built around the following. The exact structure will vary depending o
 	7. Contingencies for change control
 
 
-##### Types of information
+## Types of information
 
 	1. Effects & Research
 
@@ -79,7 +151,7 @@ DSF can be built around the following. The exact structure will vary depending o
 	3. Participants, permissions and messages
 		
 
-##### Levels of interactivity
+## Levels of interactivity
 
 	1. Tasks & Workflows
 
@@ -88,7 +160,7 @@ DSF can be built around the following. The exact structure will vary depending o
 	3. Dynamic, Native, Web Interface
 
 
-##### Project Delivery & Management Practices
+## Project Delivery & Management Practices
 
 	1. Agile
 
@@ -105,7 +177,7 @@ DSF can be built around the following. The exact structure will vary depending o
 	7. BDD
 		
 		
-##### System Architecture (Data Interchange) & APIs
+## System Architecture (Data Interchange) & APIs
 
 		A Data Formats
 
@@ -212,7 +284,7 @@ DSF can be built around the following. The exact structure will vary depending o
 				However, the goal of any security policy is to make it extremely difficult for 
 				unauthorised persons to gain access to network resources and information.
 
-##### Front & Back end Development Methods
+## Front & Back end Development Methods
 
 		1. Code Management
 
@@ -231,14 +303,14 @@ DSF can be built around the following. The exact structure will vary depending o
 		8. Unit Testing strategies for REST services
 
 
-##### Portable Modular Components Architecture
+## Portable Modular Components Architecture
 		
 		1. Client and Server side component rendering
 
 		2. Cloud Computing Services
 
 
-##### UX Patterns
+## UX Patterns
 
 		1. UX Best Practices - Keep It Simple (KISS)
 		
@@ -249,10 +321,10 @@ DSF can be built around the following. The exact structure will vary depending o
 		4. Font icons
 
 
-##### SEO, Analytics and Omniture tagging specifications
+## SEO, Analytics and Omniture tagging specifications
 
 
-##### DevOps, Continuous Integration, Continuous Delivery & Continuous Deployment
+## DevOps, Continuous Integration, Continuous Delivery & Continuous Deployment
 
 DevOps is the combination of cultural philosophies, practices, and tools 
 that increases an organization’s  ability to deliver applications and services at high velocity: evolving and 
@@ -371,7 +443,7 @@ Tools
 and deployments across multiple platforms faster
 
 
-##### Quality Assurance Approach : 
+## Quality Assurance Approach : 
 
 1. Testing Environment & Test Coverage
 (http://bittersweetryan.github.io/jasmine-presentation/#slide-0)
@@ -387,7 +459,7 @@ and deployments across multiple platforms faster
 6. Mobile Devices
 
 
-##### Integrating Social Media, Email & Campaign Strategies:
+## Integrating Social Media, Email & Campaign Strategies:
 
 What if your brand could engage people in conversations about your product, popular TV shows,
  movies or sporting events while they are engaging with it? 
@@ -407,10 +479,8 @@ What if your brand could engage people in conversations about your product, popu
 3. Spotlight on Implicit Reaction Time (IRT)
 
 
-##### Documentation
 
-
-##### Cloud Computing Platforms & Service Models
+## Cloud Computing Platforms & Service Models
 
 Cloud Computing is a broad term that describes a broad range of services. 
 Since the Cloud is a broad collection of services, 
@@ -441,7 +511,7 @@ Rapid elasticity. Capability can scale to cope with demand peaks.
 Measured Service. Billing is metered and delivered as a utility service
 
 
-###### Models
+## Models
 
 SaaS (Software as a Service) applications are designed for end-users, delivered over the web.
 
@@ -459,100 +529,82 @@ SaaS (Software as a Service) applications are designed for end-users, delivered 
 PaaS (Platform as a Service) is the set of tools and services designed to make coding and deploying 
 those applications quick and efficient over the Internet. 
 
-	The model is a category of cloud computing services that provides a platform allowing 
-	customers to develop, run, and manage web applications without the complexity of building and
-	maintaining the infrastructure typically associated with developing and launching 
-	an app - via the browser.
+The model is a category of cloud computing services that provides a platform allowing 
+customers to develop, run, and manage web applications without the complexity of building and
+maintaining the infrastructure typically associated with developing and launching 
+an app - via the browser.
 
-	Examples: AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App Engine, 
-	and Apache Stratos.
+Examples: AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App Engine, 
+and Apache Stratos.
 
 
 IaaS (Infrastructure as a Service), is the hardware and software that powers it all – servers, 
 storage, networks, operating system. 
 
-	IaaS provides you the computing infrastructure, physical or (quite often) virtual machines and 
-	other resources like virtual-machine disk image library, block and file-based storage, firewalls,
-	load balancers, IP addresses, virtual local area networks etc. 
+IaaS provides you the computing infrastructure, physical or (quite often) virtual machines and 
+other resources like virtual-machine disk image library, block and file-based storage, firewalls,
+load balancers, IP addresses, virtual local area networks etc. 
 
-	Examples: Amazon EC2, Windows Azure, Rackspace, Google Compute Engine.
+Examples: Amazon EC2, Windows Azure, Rackspace, Google Compute Engine.
 
 Additional points to note:
 
-	AWS(Amazon web services) is a complete suite which involves a whole bunch of useful web services. 
-	Most popular are EC2 and S3 and they belong to IaaS service model.
+AWS(Amazon web services) is a complete suite which involves a whole bunch of useful web services. 
+Most popular are EC2 and S3 and they belong to IaaS service model.
 
-	Although Hadoop is based on previous works by Google(GFS and MapReduce), it is not from Google. 
-	It is an Apache project.It is just a distributed computing platform and does not fall into 
-	any of these service models
+Although Hadoop is based on previous works by Google(GFS and MapReduce), it is not from Google. 
+It is an Apache project.It is just a distributed computing platform and does not fall into 
+any of these service models
 
-	Windows Azure is both a PaaS and IaaS.
+Windows Azure is both a PaaS and IaaS.
 
-	Scalability
+Scalability
 
-	Performance
-	Hadoop MapReduce (Hadoop Map/Reduce) is a software framework for distributed processing of 
-	large data sets on compute clusters of commodity hardware. It is a sub-project of the 
-	Apache Hadoop project. The framework takes care of scheduling tasks, 
-	monitoring them and re-executing any failed tasks. 
+Performance
+Hadoop MapReduce (Hadoop Map/Reduce) is a software framework for distributed processing of arge data sets on compute clusters of commodity hardware. It is a sub-project of the Apache Hadoop project. The framework takes care of scheduling tasks, 
+monitoring them and re-executing any failed tasks. 
 
-	Choose a particular platform based on your requirements and needs. For example, if you want to 
-	have a Hadoop cluster on which you would run MapReduce jobs, you will find EC2 a perfect fit, 
-	which is IaaS. On the other hand if you have some application, written in some language, 
-	and you want to deploy it over the cloud,  you would choose something like Heroku, 
-	which is an example of PaaS.
+Choose a particular platform based on your requirements and needs. For example, if you want to  have a Hadoop cluster on which you would run MapReduce jobs, you will find EC2 a perfect fit, which is IaaS. On the other hand if you have some application, written in some language, and you want to deploy it over the cloud,  you would choose something like Heroku, which is an example of PaaS.
 
 
-##### Developing technology based innovation/tool for limited budget?
+## Developing technology based innovation/tool for limited budget?
 
 1. Plan the funding requirements to maintain momentum
 
-	Investigate what external support is available, including 
-	accelerators (a program designed to help startups get off the ground quickly, 
-	often in exchange for equity), and incubators (similar to accelerators, 
-	but usually in-house at a corporate or investor parent).
+Investigate what external support is available, including  accelerators (a program designed to help startups get off the ground quickly,  often in exchange for equity), and incubators (similar to accelerators, but usually in-house at a corporate or investor parent).
 
 2. Choice of Technology
 
-	Don’t let the technology distract from the end goal of creating something 
-	that benefits your users.
+Don’t let the technology distract from the end goal of creating something that benefits your users.
 
 4. Man power
 
-Find  developers who areZ happy to co-design with your users, is affordable, 
-	and aligned with your ethos
+Find  developers who areZ happy to co-design with your users, is affordable, and aligned with your ethos
 
-5. Educate people in your organisation about the innovation at the earliest stage 
-possible (startup mindset), take advantage of new technologies.
+5. Educate people in your organisation about the innovation at the earliest stage  possible (startup mindset), take advantage of new technologies.
 
 Possible use of Agile and Blockchain platform for sharing resources and transactions. 
 
 		
+## Why Agile?
 
-Why Agile?
+1. Revenue 
+The iterative nature of agile development means features are delivered incrementally, enabling some benefits to be realised early as the product continues to develop.
 
-	1. Revenue 
-	The iterative nature of agile development means features are delivered incrementally, enabling some
-	 benefits to be realised early as the product continues to develop.
+2. Speed-to-market
 
-	2. Speed-to-market
+Research suggests about 80% of all market leaders were first to market. As well as the higher revenue from incremental delivery, agile development philosophy also supports the notion of early  and regular releases, and ‘perpetual beta’.
 
-	Research suggests about 80% of all market leaders were first to market. As well as the higher
-	revenue from incremental delivery, agile development philosophy also supports the notion of early 
-	and regular releases, and ‘perpetual beta’.
+3. Quality
 
-	3. Quality
+A key principle of agile development is that testing is integrated throughout the cycle, enabling regular inspection of the working product as it develops. This allows the product owner to make adjustments  if necessary and gives the product team early sight of any quality issues.
 
-	A key principle of agile development is that testing is integrated throughout the cycle, enabling regular
-	 inspection of the working product as it develops. This allows the product owner to make adjustments 
-	 if necessary and gives the product team early sight of any quality issues.
+4. Visibility
 
-	4. Visibility
-
-	Agile development principles encourage active user involvement throughout the product’s development 
-	and a very cooperative collaborative approach. This provides excellent visibility for key stakeholders, 
-	both of the project’s progress and of the product itself, which in turn helps to ensure that 
-	expectations are effectively managed.
+Agile development principles encourage active user involvement throughout the product’s development 
+and a very cooperative collaborative approach. This provides excellent visibility for key stakeholders, 
+both of the project’s progress and of the product itself, which in turn helps to ensure that 
+expectations are effectively managed.
 
 5. Risk Management
 
@@ -594,30 +646,23 @@ was expected, needed or hoped for. In agile development, the emphasis is absolut
 10. More Enjoyable!
 
 The active involvement, cooperation and collaboration make agile development teams a much more 
-enjoyable place for most people. Instead of big specs, we discuss requirements in workshops. 
-Instead of lengthy status reports, we collaborate around a task-board discussing progress. 
-Instead of long project plans and change management committees, we discuss what’s right for the product
- and project and the team is empowered to make decisions. In my experience this makes it a much more rewarding
-  approach for everyone. In turn this helps to create highly motivated, 
-  high performance teams that are highly co-operative.
+enjoyable place for most people. Instead of big specs, we discuss requirements in workshops. Instead of lengthy status reports, we collaborate around a task-board discussing progress. 
+
+Instead of long project plans and change management committees, we discuss what’s right for the product and project and the team is empowered to make decisions. In my experience this makes it a much more rewarding approach for everyone. In turn this helps to create highly motivated, high performance teams that are highly co-operative.
 
 
 
 
-Why Blockchain?
+## Why Blockchain?
 
 It is a decentralised platform and peer to peer avoiding hacking.
 
-By storing data across its network, the blockchain eliminates the risks that come 
-with data being held centrally.
+By storing data across its network, the blockchain eliminates the risks that come  with data being held centrally.
 
 Its network lacks centralized points of vulnerability that computer hackers can exploit. 
-Today’s internet has security problems that are familiar to everyone. We all rely on the 
-“username/password” system to protect our identity and assets online. Blockchain security
-methods use encryption technology.
+Today’s internet has security problems that are familiar to everyone. We all rely on the  “username/password” system to protect our identity and assets online. Blockchain security methods use encryption technology.
 
-With Blockchain Users  to the network have private keys and the network stores 
-public keys for encryption/decryption when called upon.
+With Blockchain Users  to the network have private keys and the network stores public keys for encryption/decryption when called upon.
 
 
 		
