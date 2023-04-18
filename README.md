@@ -116,7 +116,32 @@ Cybersecurity is critical to trust in, and longevity of, your business platform.
 
 	4. Organizsational culture and change management
 
-	5. Cybersecurity and digital trust.
+	5. Cybersecurity and digital trust i.e Vectors and Cyber Essentials (Certification):
+	
+	i. Broken Access Control
+	
+        ii. Cryptographic Faillures
+	
+	iii. Insecure designs
+
+	iv. Identification, authorisation and authentication failures
+	
+	v. DOS and DDOS Attacks
+
+	vi. Cross Site Request Forgery (CSRF)
+
+	vii. SQL Injection Attacks
+
+	viii. Session Hijacking
+	
+	ix. Security mis-configuration
+	
+	x. Data Integrity Failures
+
+	xi. Social Engineering, Logging and Monitoring Failures
+
+	xii. Hacking Wireless Networking and Web Servers
+	
 
 	6. Effective Governance, Legislation, Data Protection (i.e GDPR and associated penalties)
 
