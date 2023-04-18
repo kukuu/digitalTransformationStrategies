@@ -586,7 +586,7 @@ Windows Azure is both a PaaS and IaaS.
 Scalability
 
 Performance
-Hadoop MapReduce (Hadoop Map/Reduce) is a software framework for distributed processing of arge data sets on compute clusters of commodity hardware. It is a sub-project of the Apache Hadoop project. The framework takes care of scheduling tasks, 
+Hadoop MapReduce (Hadoop Map/Reduce) is a software framework for distributed processing of large data sets on compute clusters of commodity hardware. It is a sub-project of the Apache Hadoop project. The framework takes care of scheduling tasks, 
 monitoring them and re-executing any failed tasks. 
 
 Choose a particular platform based on your requirements and needs. For example, if you want to  have a Hadoop cluster on which you would run MapReduce jobs, you will find EC2 a perfect fit, which is IaaS. On the other hand if you have some application, written in some language, and you want to deploy it over the cloud,  you would choose something like Heroku, which is an example of PaaS.
@@ -604,7 +604,7 @@ Don’t let the technology distract from the end goal of creating something that
 
 4. Man power
 
-Find  developers who areZ happy to co-design with your users, is affordable, and aligned with your ethos
+Find  developers who are happy to co-design with your users, is affordable, and aligned with your ethos
 
 5. Educate people in your organisation about the innovation at the earliest stage  possible (startup mindset), take advantage of new technologies.
 
@@ -688,6 +688,3 @@ Its network lacks centralized points of vulnerability that computer hackers can 
 Today’s internet has security problems that are familiar to everyone. We all rely on the  “username/password” system to protect our identity and assets online. Blockchain security methods use encryption technology.
 
 With Blockchain Users  to the network have private keys and the network stores public keys for encryption/decryption when called upon.
-
-
-		
