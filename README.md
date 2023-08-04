@@ -15,7 +15,7 @@ Digital Transformation can be built around the following. The exact structure wi
 
 	3. Define Initiatives 
 
-	4. Develop a Strategy Roadmap
+	4. Develop a Strategy Roadmap:
 
 		i. Objective setting and measures of success (What you want to achieve - 
 			digitally and as a wider business)
